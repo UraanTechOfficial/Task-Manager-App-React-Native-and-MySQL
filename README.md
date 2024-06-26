@@ -107,7 +107,7 @@ Task manager aims to provide user with a powerful tool to manage their daily tas
 
 1. Clone the repository:
     ```sh
-   git clone https://github.com/muneera8907/task-manager-app.git
+   git clone https://github.com/UraanTechOfficial/Task-Manager-App-React-Native-and-MySQL.git
     cd task-manager/task-manager-backend
     ```
 
